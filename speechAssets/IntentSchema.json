@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "OutIntent",
+      "slots": [
+      {
+        "name" : "Points",
+        "type": "AMAZON.NUMBER"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
