@@ -57,4 +57,117 @@ module.exports = {
     '116': 'bulls eye, bulls eye, 16',
     '115': 'bulls eye, bulls eye, 15',
     '114': 'triple 19, triple 19',
+    '113': 'bulls eye, bulls eye, 13',
+    '112': 'bulls eye, bulls eye, 12',
+    '111': 'triple 20, triple 17',
+    '110': 'triple 20, bulls eye',
+    '109': 'bulls eye, 9, bulls eye',
+    '108': 'triple 18, triple 18',
+    '107': 'triple 19, bulls eye',
+    '106': 'bulls eye, 6, bulls eye',
+    '105': 'triple 20, triple 15',
+    '104': 'triple 18, bulls eye',
+    '103': 'bulls eye, 3, bulls eye',
+    '102': 'triple 17, triple 17',
+    '101': 'triple 17, bulls eye',
+    '100': 'bulls eye, bulls eye',
+    '99': 'triple 20, triple 13',
+    '98': 'triple 16, bulls eye',
+    '97': 'triple 19, double 20',
+    '96': 'triple 20, double 18',
+    '95': 'triple 15, bulls eye',
+    '94': 'triple 18, double 20',
+    '93': 'triple 19, double 18',
+    '92': 'triple 14, bulls eye',
+    '91': 'triple 17, double 20',
+    '90': 'bulls eye, double 20',
+    '89': 'triple 13, bulls eye',
+    '88': 'bulls eye, double 19',
+    '87': 'triple 19, double 15',
+    '86': 'bulls eye, double 18',
+    '85': 'triple 15, double 20',
+    '84': 'bulls eye, double 17',
+    '83': 'triple 11, bulls eye',
+    '82': 'bulls eye, double 16',
+    '81': 'triple 17, double 15',
+    '80': 'triple 20, 20',
+    '79': 'triple 20, 19',
+    '78': 'triple 20, 18',
+    '77': 'triple 19, 20',
+    '76': '',
+    '75': 'triple 15, double 15',
+    '74': '',
+    '73': '',
+    '72': '',
+    '71': '',
+    '70': 'bulls eye, 20',
+    '69': 'bulls eye, 19',
+    '68': 'bulls eye, 18',
+    '67': 'bulls eye, 17',
+    '66': 'bulls eye, 16',
+    '65': 'bulls eye, 15',
+    '64': '',
+    '63': '',
+    '62': 'triple 14, 20',
+    '61': '',
+    '60': 'triple 20',
+    '59': '19, double 20'
+    '58': '18, double 20'
+    '57': 'triple 19'
+    '56': '16, double 20'
+    '55': '15, double 20'
+    '54': 'triple 18'
+    '53': ''
+    '52': ''
+    '51': 'triple 17'
+    '50': 'bulls eye',
+    '49': 'double 15, 19'
+    '48': 'triple 16'
+    '47': ''
+    '46': ''
+    '45': 'triple 15'
+    '44': ''
+    '43': ''
+    '42': 'triple 14'
+    '41': ''
+    '40': 'double 20',
+    '39': 'triple 13',
+    '38': 'double 19',
+    '37': '19, 18',
+    '36': 'double 18',
+    '35': '18, 17',
+    '34': 'double 17',
+    '33': 'triple 11',
+    '32': 'double 16',
+    '31': '16, 15',
+    '30': 'double 15',
+    '29': '',
+    '28': 'double 14',
+    '27': '',
+    '26': 'double 13',
+    '25': ''
+    '24': 'double 12',
+    '23': ''
+    '22': 'double 11',
+    '21': 'triple 7'
+    '20', '20',
+    '19', '19',
+    '18', '18',
+    '17', '17',
+    '16', '16',
+    '15', '15',
+    '14', '14',
+    '13', '13',
+    '12', '12',
+    '11', '11',
+    '10', '10',
+    '9': '9',
+    '8': '8',
+    '7': '7',
+    '6': '6',
+    '5', '5',
+    '4': '4',
+    '3': '3',
+    '2': '2',
+    '1': '1'
 };
